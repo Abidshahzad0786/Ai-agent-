@@ -1,0 +1,7 @@
+{
+  "name": "Universal Google AI Studio Enterprise",
+  "description": "Universal AI Studio Copilot and developer platform with conversational chat, freeform canvas, few-shot prompting, API key management, model fine-tuning pipeline, multi-language code export, and 8K image generation.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
